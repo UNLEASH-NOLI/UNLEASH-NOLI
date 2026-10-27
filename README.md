@@ -19,7 +19,6 @@
         ㅤ<br>
         $\color{#8C8C8C}{\textsf{NOLI}}$<br>
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
-        ㅤ<br>
         [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
         $\color{#636363}{\textsf{ALSO KNOWN AS}}$<br>
