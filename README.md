@@ -13,7 +13,7 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        <img src="https://api.visitorbadge.io/api/visitors?path=UNLEASH-NOLI&label=cultists&labelColor=000000&countColor=000000&style=flat"><br>
+        <img src="https://api.visitorbadge.io/api/visitors?path=UNLEASH-NOLI&label=void cult&labelColor=000000&countColor=000000&style=flat"><br>
         ㅤ<br>
         <img src="https://files.catbox.moe/h3x9mn.png" width="150" height="~" alt="VOID STAR"><br>
         ㅤ<br>
