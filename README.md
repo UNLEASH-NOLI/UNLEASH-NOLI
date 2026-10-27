@@ -17,12 +17,14 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/h3x9mn.png" width="200" height="~" alt="VOID STAR"><br>
         ㅤ<br>
-        $\color{#636363}{\textsf{NOLI}}$<br>
+        $\color{#8C8C8C}{\textsf{NOLI}}$<br>
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
-        $\color{#636363}{\textsf{owner of}}$ [THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
         ㅤ<br>
-        [atabook](https://void-star.atabook.org)<br>
-        $\color{#636363}{\textsf{aka.}}$ㅤ[j777ckpot](https://github.com/j777ckpot)ㅤ[TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
+        [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
+        ㅤ<br>
+        $\color{#636363}{\textsf{ALSO KNOWN AS:}}$<br>
+        [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
+        $\color{#636363}{\textsf{OWNER OF}}$ [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
         ㅤ<br>
       </th>
     </table>
