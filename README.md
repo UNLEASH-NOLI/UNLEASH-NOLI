@@ -8,7 +8,7 @@
 
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
-
+ㅤ<br>
 ㅤ<table border="7" align="center">
     <tr align="center"></tr>
       <th>
@@ -28,8 +28,4 @@
         ㅤ<br>
       </th>
     </table>
-  
-<p align="center">
 ㅤ<br>
-$\color{#8C8C8C}{\textsf{✦}}$<br>
-ㅤ<br></p>
