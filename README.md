@@ -25,8 +25,6 @@
         $\color{#636363}{\textsf{ALSO KNOWN AS}}$<br>
         [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
         ㅤ<br>
-        $\color{#636363}{\textsf{OWNER OF}}$ [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
-        ㅤ<br>
       </th>
     </table>
   
