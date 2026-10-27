@@ -17,7 +17,7 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/h3x9mn.png" width="150" height="~" alt="VOID STAR"><br>
         ㅤ<br>
-        $\color{#8C8C8C}{\textsf{NOLI}}$ $\color{#636363}{\textsf{ㅤ✦ㅤ}}$ $\color{#8C8C8C}{\textsf{NULL}}$<br>
+        $\color{#a1a1a1}{\textsf{NOLI}}$ $\color{#8C8C8C}{\textsf{ㅤ✦ㅤ}}$ $\color{#a1a1a1}{\textsf{NULL}}$<br>
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
         [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
