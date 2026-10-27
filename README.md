@@ -8,7 +8,7 @@
 
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
-ㅤ<br>
+
 ㅤ<table border="7" align="center">
     <tr align="center"></tr>
       <th>
