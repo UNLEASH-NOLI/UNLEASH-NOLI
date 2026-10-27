@@ -24,7 +24,7 @@
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
         $\color{#B3B3B3}{\textsf{<}}$ [my star](https://github.com/GET-H4XX3D) $\color{#B3B3B3}{\textsf{3}}$<br>
-        $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
+        $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
         $\color{#B3B3B3}{\textsf{devotees:ㅤ}}$ [@VlSCARTE](https://github.com/VlSCARTE)ㅤ[@RUST-010](https://github.com/RUST-010)ㅤ[@call-the-d0ctor](https://github.com/call-the-d0ctor)<br>        ㅤ<br>
       </th>
     </table>
