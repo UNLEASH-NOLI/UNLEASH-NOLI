@@ -18,12 +18,12 @@
         <img src="https://files.catbox.moe/h3x9mn.png" width="150" height="~" alt="VOID STAR"><br>
         ㅤ<br>
         $\color{#8C8C8C}{\textsf{NOLI}}$ $\color{#636363}{\textsf{or}}$ $\color{#8C8C8C}{\textsf{NULL}}$<br>
-        $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
+        $\color{#636363}{\textsf{he/himㅤ✦ㅤmasc. terms}}$<br>
         [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
-        $\color{#636363}{\textsf{ALSO KNOWN AS}}$<br>
+        $\color{#8C8C8C}{\textsf{ALSO KNOWN AS}}$<br>
         [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
         ㅤ<br>
       </th>
