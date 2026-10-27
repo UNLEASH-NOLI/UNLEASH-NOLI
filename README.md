@@ -21,13 +21,15 @@
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
         [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
+        <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="160" alt="BANNER"><br>
+        ㅤ<br>
         $\color{#636363}{\textsf{ALSO KNOWN AS}}$<br>
-        ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ<br>
+        [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
         ㅤ<br>
       </th>
     </table>
   
 <p align="center">
 ㅤ<br>
-$\color{#636363}{\textsf{✦}}$<br>
+$\color{#8C8C8C}{\textsf{✦}}$<br>
 ㅤ<br></p>
