@@ -19,7 +19,7 @@
         ㅤ<br>
         $\color{#B3B3B3}{\textsf{NOLI}}$ $\color{#4C4C4C}{\textsf{ㅤ✦ㅤ}}$ $\color{#B3B3B3}{\textsf{NULL}}$<br>
         $\color{#858585}{\textsf{he/himㅤ18ㅤmasc terms}}$<br>
-        [atabook](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
+        [新book](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
