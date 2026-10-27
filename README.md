@@ -23,8 +23,7 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
-        $\color{#a1a1a1}{\textsf{ALSO KNOWN AS}}$<br>
-        [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
+        [my star](https://github.com/GET-H4XX3D)<br>
         ㅤ<br>
       </th>
     </table>
