@@ -21,8 +21,8 @@
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
         $\color{#636363}{\textsf{owner of}}$ [THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
         ㅤ<br>
-        [atabook]([https://the-tempist.atabook.org](https://void-star.atabook.org)<br>
-        $\color{#636363}{\textsf{aka.}}$ㅤ[j777ckpot]([https://the-tempist.atabook.org](https://github.com/j777ckpot)ㅤ[TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
+        [atabook](https://void-star.atabook.org)<br>
+        $\color{#636363}{\textsf{aka.}}$ㅤ[j777ckpot](https://github.com/j777ckpot)ㅤ[TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[NECRO-GUITAR](https://github.com/NECRO-GUITAR)<br>
         ㅤ<br>
       </th>
     </table>
