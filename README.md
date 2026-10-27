@@ -15,7 +15,7 @@
         ㅤ<br>
         <img src="https://api.visitorbadge.io/api/visitors?path=UNLEASH-NOLI&label=stars&labelColor=000000&countColor=000000&style=flat"><br>
         ㅤ<br>
-        <img src="https://files.catbox.moe/h3x9mn.png" width="200" height="~" alt="VOID STAR"><br>
+        <img src="https://files.catbox.moe/h3x9mn.png" width="150" height="~" alt="VOID STAR"><br>
         ㅤ<br>
         $\color{#8C8C8C}{\textsf{NOLI}}$<br>
         $\color{#636363}{\textsf{he/himㅤmasc. terms}}$<br>
