@@ -19,7 +19,7 @@
         ㅤ<br>
         $\color{#B3B3B3}{\textsf{NOLI}}$ $\color{#4C4C4C}{\textsf{ㅤ✦ㅤ}}$ $\color{#B3B3B3}{\textsf{NULL}}$<br>
         $\color{#858585}{\textsf{he/himㅤ18ㅤmasc terms}}$<br>
-        [新book](https://void-star.atabook.org)ㅤ[straw.page](https://void-star.straw.page)<br>
+        [新book](https://void-star.atabook.org)ㅤ[byi & dni(.cc)](https://pronouns.cc/@TEMPEST)ㅤ[straw.page](https://void-star.straw.page)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
@@ -28,6 +28,20 @@
         $\color{#B3B3B3}{\textsf{devotees}}$<br>
         [@VlSCARTE](https://github.com/VlSCARTE)ㅤ[@RUST-010](https://github.com/RUST-010)ㅤ[@call-the-d0ctor](https://github.com/call-the-d0ctor)<br>
         [@echo-onslaught](https://github.com/echo-onslaught)<br>
+        ㅤ<br>
+      </th>
+    </table>
+
+ㅤ<table border="7" align="center">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+        $\color{#B3B3B3}{\textsf{NOMINATIONS}}$<br>
+        $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
+        [@THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[@ponytowns-rewards](https://github.com/ponytowns-rewards)ㅤ[@knox-event](https://github.com/knox-event)<br>
+        [@piddlesjet](https://github.com/piddlesjet)ㅤ[@pt-everypony](https://github.com/pt-everypony)<br>
+        $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
+        $\color{#858585}{\textsf{(thank you!)}}$<br>
         ㅤ<br>
       </th>
     </table>
