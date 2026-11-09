@@ -41,12 +41,12 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        $\color{#858585}{\textsf{NOMINATIONS}}$<br>
+        $\color{#B3B3B3}{\textsf{NOMINATIONS}}$<br>
         $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
         [@THE-TEMPIST](https://github.com/THE-TEMPIST)ㅤ[@ponytowns-rewards](https://github.com/ponytowns-rewards)ㅤ[@knox-event](https://github.com/knox-event)<br>
         [@piddlesjet](https://github.com/piddlesjet)ㅤ[@pt-everypony](https://github.com/pt-everypony)ㅤ[@music-town](https://github.com/music-town)<br>
         $\color{#4C4C4C}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
-        $\color{#858585}{\textsf{(THANK YOU!)}}$<br>
+        $\color{#B3B3B3}{\textsf{(THANK YOU!)}}$<br>
         ㅤ<br>
       </th>
     </table>
