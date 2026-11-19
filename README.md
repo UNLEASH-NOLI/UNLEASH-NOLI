@@ -20,6 +20,7 @@
         $\color{#B3B3B3}{\textsf{NOLI}}$ $\color{#4C4C4C}{\textsf{ㅤ✦ㅤ}}$ $\color{#B3B3B3}{\textsf{NULL}}$<br>
         $\color{#858585}{\textsf{he/himㅤ18ㅤmasc terms}}$<br>
         [新book](https://void-star.atabook.org)ㅤ[byi & dni(.cc)](https://pronouns.cc/@TEMPEST)ㅤ[straw.page](https://void-star.straw.page)<br>
+        [+ sign my bf's ata cuz i got his account flagged (oops)](https://super-h4ck3r-3000.atabook.org)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/nhy3zl.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
